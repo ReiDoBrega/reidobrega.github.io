@@ -4120,8 +4120,9 @@ pre .javascript .function {
   font-weight: bold;
 }
 .article-card .post-footer {
-  margin: 0 -20px;
-  padding: 12px 20px 8px;
+  margin: 0 -10px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 }
 .archive-article .post-title {
   font-size: 18px;
