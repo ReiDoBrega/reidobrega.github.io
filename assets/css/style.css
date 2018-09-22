@@ -3005,7 +3005,7 @@ a[title="站长统计"] {
 }
 @media screen and (max-width: 1240px) {
   .header-title {
-    text-align: left;
+    text-align: center;
   }
 }
 @media screen and (max-width: 760px) {
